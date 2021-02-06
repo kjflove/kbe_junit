@@ -1,0 +1,15 @@
+de.htw_berlin.kbe_junit.App.impl
+de.htw_berlin.kbe_junit.Controller.export
+de.htw_berlin.kbe_junit.Controller.impl
+de.htw_berlin.kbe_junit.Dep_Injection.impl
+de.htw_berlin.kbe_junit.MauFeld.export
+de.htw_berlin.kbe_junit.MauFeld.impl
+de.htw_berlin.kbe_junit.Sonderregel.export
+de.htw_berlin.kbe_junit.Sonderregel.impl
+de.htw_berlin.kbe_junit.View.impl
+de.htw_berlin.kbe_junit.VirtuellerSpieler.export
+de.htw_berlin.kbe_junit.VirtuellerSpieler.impl
+de.htw_berlin.kbe_junit.karten.export
+de.htw_berlin.kbe_junit.karten.impl
+de.htw_berlin.kbe_junit.spieler.export
+de.htw_berlin.kbe_junit.spieler.impl
